@@ -10,7 +10,7 @@
 
 ***
 
-* [**Curriculum**]({{ "/curriculum" | relative_url }})
+<! ––* [**Curriculum**]({{ "/curriculum" | relative_url }})-->
 * [**Period 1**]({{ "/periods/1.md" | relative_url }})
 * [Tools]({{ "/tools" | relative_url }})
 * [Syllabus]({{"/syllabus" | relative_url }})
