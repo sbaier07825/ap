@@ -2,6 +2,7 @@
 
 * [Chapter 0](0)
 * [Chapter 1](1)
+<!--
 * [Chapter 2](2)
 * [Chapter 3](3)
 * [Chapter 4](4)
@@ -15,3 +16,4 @@
 * [Understanding Technology](understanding_technology)
 * [Data Science](data_science)
 * [Impact of Computing](impact_of_computing)
+-->
