@@ -39,6 +39,7 @@
   * [Functions](https://ap.cs50.school/assets/pdfs/functionss.pdf)
   * [Insertion Sort](https://ap.cs50.school/assets/pdfs/insertion_sort.pdf)
   * [Linear Search](https://ap.cs50.school/assets/pdfs/linear_search.pdf)
+  * [Libraries](https://ap.cs50.school/assets/pdfs/libraries.pdf)
   * [Merge Sort](https://ap.cs50.school/assets/pdfs/merge_sort.pdf)
   * [Recursion](https://ap.cs50.school/assets/pdfs/recursion.pdf)
   * [Selection Sort](https://ap.cs50.school/assets/pdfs/selection_sort.pdf)
