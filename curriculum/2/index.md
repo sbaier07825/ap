@@ -36,6 +36,7 @@
   * [Compiling](https://ap.cs50.school/assets/pdfs/compiling.pdf)
   * [Computational Complexity](https://ap.cs50.school/assets/pdfs/computational_complexity.pdf)
   * [Exit Codes](https://ap.cs50.school/assets/pdfs/exit_codes.pdf)
+  * [Functions](https://ap.cs50.school/assets/pdfs/functionss.pdf)
   * [Insertion Sort](https://ap.cs50.school/assets/pdfs/insertion_sort.pdf)
   * [Linear Search](https://ap.cs50.school/assets/pdfs/linear_search.pdf)
   * [Merge Sort](https://ap.cs50.school/assets/pdfs/merge_sort.pdf)
