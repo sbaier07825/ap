@@ -5,9 +5,6 @@
 * [Chapter 2](2)
 * [Chapter 3](3)
 * [Chapter 5](5)
-
-<!--
-
 * [Chapter 4](4)
 * [Chapter 6](6)
 * [Chapter 7](7)
@@ -19,4 +16,3 @@
 * [Data Science](data_science)
 * [Impact of Computing](impact_of_computing)
 
--->
